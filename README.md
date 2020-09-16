@@ -1,1 +1,2 @@
-# practise_terraform
+# teraform_practise
+this is new terraform repo
